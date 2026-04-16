@@ -116,6 +116,9 @@ If you build or use a FAIR prayer wheel, please take a moment to appreciate the 
 
 ## FAQ
 
+**Q: Why doesn't this project have a DOI?**
+A: This repository is identified by its Git commit hashes — cryptographic, content-addressed, verifiable by anyone, and minted without a central authority. Every commit is signed. This makes DOIs redundant at best and misleading at worst: they are mutable, centralized, and do not verify the content they point to. For a deeper treatment of why content-addressed identifiers are superior to institutional ones, see the [TribleSpace Identifiers deep dive](https://triblespace.github.io/triblespace-rs/deep-dive/identifiers.html).
+
 **Q: Does this actually achieve FAIR compliance?**
 A: With the same efficacy as most institutional approaches, but at significantly lower cost and higher throughput.
 
