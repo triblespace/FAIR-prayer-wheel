@@ -1,3 +1,5 @@
+![FAIR Prayer Wheel — 3D printed prayer wheel with embossed F, A, I, R faces, cotton rope with counterweight bead, in Prusament Viva La Bronze](preview.png)
+
 # FAIR Prayer Wheel
 
 *A low-latency solution for FAIR compliance.*
