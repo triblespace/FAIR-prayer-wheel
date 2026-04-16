@@ -40,6 +40,7 @@ Print `FAIR_mantras_a4.pdf` **double-sided** on standard A4 (80g) paper (SEF/lan
 2. Tie an 8-knot on one end, pull tight and insert into the hole in the body from the inside.
 3. Insert rope into the bead on the flat side and tie a regular knot on the other side.
 4. The bead should sit at roughly the midpoint of the handle when the wheel is held upright and the bead hanging loosely.
+5. Fray the exposed end of the rope to create a pretty tassel.
 
 ### Mantras & Lid
 
